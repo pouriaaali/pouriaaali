@@ -1,19 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17431
-Fork on GitHub
-5053
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Pourai Aali</h1>
 <h3 align="center">Electrical and Automation engineer</h3>
 
