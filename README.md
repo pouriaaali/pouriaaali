@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Industrial Projects**
 
-- 👨‍💻 All of my projects are available at [[https://www.linkedin.com/in/pouria-aali-622017197?originalSubdomain=ir](https://www.linkedin.com/in/pouria-aali-622017197?originalSubdomain=ir](https://www.linkedin.com/in/pouriaaali/))
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pouriaaali/](url)
 
 - 📫 How to reach me **aalipouria0098@gmail.com**
 
