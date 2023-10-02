@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Industrial Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pouriaaali/](url)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pouriaaali/](Linkedin)
 
-- 📫 How to reach me **aalipouria0098@gmail.com**
+- 📫 How to reach me [aalipouria0098@gmail.com](Email)
 
 - ⚡ Fun fact **I think I'm creative**
 
